@@ -64,7 +64,7 @@ df = pd.DataFrame(data)
 df.to_excel('AutomationData.xlsx')
 
 
-#
+
 
 # [xpath_lis.append('//' + i)  for i in lis if(i!='')]
 # print(xpath_lis)
